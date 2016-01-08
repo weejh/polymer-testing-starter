@@ -1,0 +1,8 @@
+dist/
+node_modules/
+bower_components/
+docs/
+.DS_Store
+*.dist.js
+*.log
+*.log.*
