@@ -1,1 +1,1 @@
-# polymer-testing
+# polymer-testing-starter
